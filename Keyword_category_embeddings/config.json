@@ -3,10 +3,10 @@
       {
         "tensorName": "My tensor",
         "tensorShape": [
-            20000, 384
+          521, 22
         ],
-        "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Sentence_Transformer_embeddings/transformer_embeddings-10.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Sentence_Transformer_embeddings/sentences_ctr_labeled-7.tsv"
+        "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Keyword_category_embeddings/embeddings_keyword_category.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Keyword_category_embeddings/keyword_categories_vs_ctr.tsv"
       }
     ]
   }
