@@ -3,7 +3,7 @@
       {
         "tensorName": "My tensor",
         "tensorShape": [
-          521, 22
+          352, 384
         ],
         "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Keyword_category_embeddings/embeddings_keyword_category.tsv",
         "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Keyword_category_embeddings/keyword_categories_vs_ctr.tsv"
