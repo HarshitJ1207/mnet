@@ -3,11 +3,12 @@
       {
         "tensorName": "My tensor",
         "tensorShape": [
-            3961, 30
+            22368, 30
         ],
         "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/url_hash_embeddings/embeddings_url_category.tsv",
         "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/url_hash_embeddings/url_category_vs_ctr.tsv"
       }
     ]
   }
+  
   
