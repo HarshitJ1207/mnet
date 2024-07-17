@@ -1,0 +1,522 @@
+0	1
+Arts & Entertainment > Celebrities & Entertainment News	0.021409292268900634
+Arts & Entertainment > Events & Listings > Concerts & Music Festivals	0.01981491257264144
+Arts & Entertainment > Events & Listings > Event Ticket Sales	0.16061793308241681
+Arts & Entertainment > Events & Listings > Live Sporting Events	0.023121387283236993
+Arts & Entertainment > Fun & Trivia	0.17079114755874206
+Arts & Entertainment > Fun & Trivia > Flash-Based Entertainment	0.0
+Arts & Entertainment > Fun & Trivia > Fun Tests & Silly Surveys	0.0
+Arts & Entertainment > Humor	0.02088398701634669
+Arts & Entertainment > Humor > Funny Pictures & Videos	0.001669449081803005
+Arts & Entertainment > Movies	0.17661267550168352
+Arts & Entertainment > Movies > Action & Adventure Films > Superhero Films	0.0
+Arts & Entertainment > Movies > Comedy Films	0.14112471166683926
+Arts & Entertainment > Movies > Movie Reference	0.15148368458225567
+Arts & Entertainment > Movies > Romance Films	0.123989074769592
+Arts & Entertainment > Movies > Science Fiction & Fantasy Films	0.2865002033646312
+Arts & Entertainment > Movies > Thriller, Crime & Mystery Films	0.12280682203376432
+Arts & Entertainment > Music & Audio > CD & Audio Shopping	0.029899833177727632
+Arts & Entertainment > Music & Audio > Classical Music	0.010309278350515464
+Arts & Entertainment > Music & Audio > Folk & Traditional Music	0.05405405405405406
+Arts & Entertainment > Music & Audio > Rock Music	0.008928571428571428
+Arts & Entertainment > Music & Audio > Urban & Hip-Hop > Rap & Hip-Hop	0.0
+Arts & Entertainment > Music & Audio > Urban & Hip-Hop > Reggaeton	0.47782250069840143
+Arts & Entertainment > Music & Audio > Vocals & Show Tunes	0.0
+Arts & Entertainment > Music & Audio > World Music	0.002617801047120419
+Arts & Entertainment > Online Media > Virtual Tours	0.4482121142615144
+Arts & Entertainment > TV & Video	0.10665924190643729
+Arts & Entertainment > TV & Video > Online Video	0.00404040404040404
+Arts & Entertainment > TV & Video > Online Video > Web Series	0.0
+Arts & Entertainment > TV & Video > TV Shows & Programs	0.043404482789809844
+Arts & Entertainment > TV & Video > TV Shows & Programs > TV Dramas > TV Soap Operas	0.5160261352574402
+Arts & Entertainment > Tv & Video > Online Video > Live Video Streaming	0.0
+Arts & Entertainment > Visual Art & Design > Art Museums & Galleries	0.003790271636133923
+Arts & Entertainment > Visual Art & Design > Design	0.0
+Arts & Entertainment > Visual Art & Design > Painting	0.0010325245224574084
+Arts & Entertainment > Visual Art & Design > Photographic & Digital Arts	0.010480808532821899
+Autos & Vehicles	0.06661779774847332
+Autos & Vehicles > Bicycles & Accessories	0.09777955545398849
+Autos & Vehicles > Boats & Watercraft	0.0
+Autos & Vehicles > Campers & RVs	0.05512387148734412
+Autos & Vehicles > Classic Vehicles	0.013392857142857142
+Autos & Vehicles > Motor Vehicles (By Brand)	0.3417559752852916
+Autos & Vehicles > Motor Vehicles (By Brand) > Kia	0.0896675523758125
+Autos & Vehicles > Motor Vehicles (By Brand) > Toyota	0.029411764705882353
+Autos & Vehicles > Motor Vehicles (By Type)	0.002777777777777778
+Autos & Vehicles > Motor Vehicles (By Type) > Hybrid & Alternative Vehicles	0.0
+Autos & Vehicles > Motor Vehicles (By Type) > Hybrid & Alternative Vehicles > Electric & Plug-In Vehicles	0.007885248264596962
+Autos & Vehicles > Motor Vehicles (By Type) > Scooters & Mopeds	0.025
+Autos & Vehicles > Motor Vehicles (By Type) > Trucks, Vans & Suvs	0.0625
+Autos & Vehicles > Motor Vehicles (By Type) > Trucks, Vans & Suvs > Suvs & Crossovers	0.06730128916694673
+Autos & Vehicles > Vehicle Codes & Driving Laws > Vehicle Licensing & Registration > Driving Instruction & Driver Education	0.0
+Autos & Vehicles > Vehicle Parts & Services > Vehicle Parts & Accessories > Vehicle Wheels & Tires	0.0
+Autos & Vehicles > Vehicle Parts & Services > Vehicle Repair & Maintenance > Oil Changes	0.3382861180122158
+Autos & Vehicles > Vehicle Shopping	0.018386524713041457
+Autos & Vehicles > Vehicle Shopping > Used Vehicles	0.11096864666542787
+Autos & Vehicles > Vehicle Shopping > Vehicle Dealers & Retailers	0.22589802860291852
+Autos & Vehicles > Vehicle Shopping > Vehicle Specs, Reviews & Comparisons	0.03701733194843003
+Autos & Vehicles > Vehicle Shows	0.0
+Beauty & Fitness	0.047619047619047616
+Beauty & Fitness > Body Art	0.03593331185135638
+Beauty & Fitness > Cosmetic Procedures	0.059965965975178316
+Beauty & Fitness > Face & Body Care	0.15199285238942523
+Beauty & Fitness > Face & Body Care > Hygiene & Toiletries	0.0423728813559322
+Beauty & Fitness > Face & Body Care > Make-Up & Cosmetics	0.06563263163023099
+Beauty & Fitness > Face & Body Care > Perfumes & Fragrances	0.2636671615362442
+Beauty & Fitness > Face & Body Care > Skin & Nail Care	0.3246828737424542
+Beauty & Fitness > Face & Body Care > Unwanted Body & Facial Hair Removal	0.08173412448760253
+Beauty & Fitness > Fashion & Style	0.02119603986784558
+Beauty & Fitness > Fashion & Style > Fashion Designers & Collections	0.06965423991943834
+Beauty & Fitness > Fitness	0.5140418745000712
+Beauty & Fitness > Fitness > Fitness Equipment & Accessories	0.38436342826579334
+Beauty & Fitness > Fitness > Fitness Equipment & Accessories > Fitness Technology Products	0.05555555555555555
+Beauty & Fitness > Fitness > Fitness Instruction & Personal Training	0.3711547947620227
+Beauty & Fitness > Fitness > Yoga & Pilates	0.417949308725193
+Beauty & Fitness > Hair Care	0.14710746493023705
+Beauty & Fitness > Hair Care > Hair Loss	0.3500230669108478
+Beauty & Fitness > Spas & Beauty Services	0.05263157894736842
+Beauty & Fitness > Spas & Beauty Services > Massage Therapy	0.4664293222912496
+Beauty & Fitness > Weight Loss	0.38340486725458944
+Books & Literature	0.13858341211028863
+Books & Literature > Book Retailers	0.05459028091384581
+Books & Literature > Fan Fiction	0.03759398496240601
+Books & Literature > Literary Classics	0.13865954253180368
+Books & Literature > Magazines	0.04794520547945205
+Business & Industrial	0.29807339375194164
+Business & Industrial > Advertising & Marketing > Brand Management	0.14285714285714285
+Business & Industrial > Advertising & Marketing > Promotional Products & Corporate Gifts	0.11627906976744186
+Business & Industrial > Advertising & Marketing > Sales	0.06130573201498324
+Business & Industrial > Agriculture & Forestry > Agricultural Equipment	0.0
+Business & Industrial > Business Services	0.12510454997422793
+Business & Industrial > Business Services > E-Commerce Services > Merchant Services & Payment Systems	0.10019122612232319
+Business & Industrial > Business Services > Office Supplies > Office Furniture	0.014760147601476014
+Business & Industrial > Business Services > Signage	0.26084079199713955
+Business & Industrial > Chemicals Industry > Cleaning Agents	0.02
+Business & Industrial > Chemicals Industry > Plastics & Polymers	0.0
+Business & Industrial > Construction & Maintenance > Building Materials & Supplies > Nails Screws & Fasteners	0.0
+Business & Industrial > Construction & Maintenance > Building Materials & Supplies > Plumbing Fixtures & Equipment	0.037966784765144444
+Business & Industrial > Energy & Utilities > Oil & Gas	0.2989603036189254
+Business & Industrial > Energy & Utilities > Water Supply & Treatment	0.37162256002762084
+Business & Industrial > Hospitality Industry > Food Service	0.04101892450678954
+Business & Industrial > Industrial Materials & Equipment > Generators	0.0
+Business & Industrial > Metals & Mining > Precious Metals	0.06463811382073885
+Business & Industrial > Retail Trade	0.13636363636363635
+Business & Industrial > Small Business	0.0
+Business & Industrial > Small Business > Business Formation	0.0
+Business & Industrial > Transportation & Logistics > Mail & Package Delivery	0.03076923076923077
+Business & Industrial > Transportation & Logistics > Self Storage	0.21827525994254213
+Computers & Electronics	0.223228780557355
+Computers & Electronics > Computer Hardware > Computer Drives & Storage > CD & DVD Drives & Burners	0.0
+Computers & Electronics > Computer Hardware > Computer Drives & Storage > Hard Drives	0.33025116691461914
+Computers & Electronics > Computer Hardware > Computer Drives & Storage > Memory Card Readers	0.08
+Computers & Electronics > Computer Security > Antivirus & Malware	0.2884861553991341
+Computers & Electronics > Consumer Electronics > Audio Equipment > Headphones	0.09181369170591695
+Computers & Electronics > Consumer Electronics > Audio Equipment > Speakers	0.01171875
+Computers & Electronics > Consumer Electronics > Drones & Rc Aircraft	0.018108651911468814
+Computers & Electronics > Consumer Electronics > TV & Video Equipment > Televisions > LCD TVs	0.0
+Computers & Electronics > Software	0.5030777304155596
+Finance > Accounting & Auditing > Billing & Invoicing	0.14870205279993515
+Finance > Accounting & Auditing > Tax Preparation & Planning	0.03706832066682475
+Finance > Banking	0.21730855278297168
+Finance > Banking > ATMs & Branch Locations	0.283825205113823
+Finance > Banking > Debit & Checking Services	0.03571428571428571
+Finance > Banking > Money Transfer & Wire Services	0.058823529411764705
+Finance > Banking > Savings Accounts	0.06258799014513985
+Finance > Credit & Lending	0.0
+Finance > Credit & Lending > Loans > Home Financing > Mortgages	0.260041839435685
+Finance > Credit & Lending > Loans > Personal Loans > Short-Term Loans & Cash Advances	0.03225806451612903
+Finance > Financial Planning & Management	0.05367647058823529
+Finance > Financial Planning & Management > Retirement & Pension	0.019789578540233988
+Finance > Grants, Scholarships & Financial Aid > Government Grants	0.2265087732784297
+Finance > Insurance > Health Insurance	0.24958274666849448
+Finance > Insurance > Home Insurance	0.045454545454545456
+Finance > Insurance > Travel Insurance	0.1568627450980392
+Finance > Investing	0.019632851630801983
+Finance > Investing > Currencies & Foreign Exchange	0.0
+Finance > Investing > Currencies & Foreign Exchange > Digital Currencies	0.028169014084507043
+Finance > Investing > Funds	0.0
+Finance > Investing > Funds > Mutual Funds	0.0
+Finance > Investing > Stocks & Bonds	0.03780027574779554
+Food & Drink	0.3715571022811753
+Food & Drink > Beverages	0.4926089314185746
+Food & Drink > Beverages > Bottled Water	0.09689148348515203
+Food & Drink > Beverages > Coffee & Tea	0.5233046549199261
+Food & Drink > Beverages > Coffee & Tea > Coffee	0.10401017512515963
+Food & Drink > Beverages > Coffee & Tea > Tea	0.2674956527200265
+Food & Drink > Beverages > Juice	0.27450333763309775
+Food & Drink > Cooking & Recipes	0.10605359584812508
+Food & Drink > Cooking & Recipes > BBQ & Grilling	0.0
+Food & Drink > Cooking & Recipes > Cuisines	0.13159069038778834
+Food & Drink > Cooking & Recipes > Desserts	0.13543675408330624
+Food & Drink > Cooking & Recipes > Desserts > Ice Cream & Frozen Desserts	0.012701952944377351
+Food & Drink > Cooking & Recipes > Healthy Eating	0.39993331802049953
+Food & Drink > Cooking & Recipes > Salads	0.08582474120636258
+Food & Drink > Food	0.4244632799695247
+Food & Drink > Food & Grocery Retailers > Convenience Stores	0.08077376954520404
+Food & Drink > Food & Grocery Retailers > Farmers' Markets	0.05
+Food & Drink > Food > Baked Goods	0.11916155481472145
+Food & Drink > Food > Breakfast Foods	0.47444172257239003
+Food & Drink > Food > Cooking Fats & Oils	0.1180355310657936
+Food & Drink > Food > Dairy & Eggs	0.25512072082467824
+Food & Drink > Food > Fruits & Vegetables	0.5371618435497711
+Food & Drink > Food > Herbs & Spices	0.4184190598900186
+Food & Drink > Food > Meat & Seafood	0.5280697618540143
+Food & Drink > Food > Meat & Seafood > Fish & Seafood	0.06590103735621183
+Food & Drink > Food > Meat & Seafood > Pork	0.20739410619050733
+Food & Drink > Food > Organic & Natural Foods	0.35405450162945157
+Food & Drink > Food > Snack Foods	0.11673412465456225
+Food & Drink > Restaurants	0.14330341234326383
+Food & Drink > Restaurants > Catering	0.06685979447829586
+Food & Drink > Restaurants > Fast Food	0.04143468363673999
+Food & Drink > Restaurants > Fast Food > Burgers	0.24096707778363813
+Food & Drink > Restaurants > Fine Dining	0.0
+Food & Drink > Restaurants > Pizzerias	0.01606425702811245
+Food & Drink > Restaurants > Restaurant Reviews & Reservations	0.14900072708166132
+Games > Card Games	0.0
+Games > Card Games > Collectible Card Games	0.015873015873015872
+Games > Computer & Video Games > Adventure Games	0.0
+Games > Computer & Video Games > Browser Games	0.03852132563348405
+Games > Computer & Video Games > Driving & Racing Games	0.0
+Games > Computer & Video Games > Sports Games	0.07692307692307693
+Games > Educational Games	0.027777777777777776
+Games > Puzzles & Brainteasers	0.11050877541918987
+Games > Tile Games	0.12222565513490087
+Games > Word Games	0.041223317444247266
+Health	0.31583137214915696
+Health > Aging & Geriatrics	0.5431544719981931
+Health > Aging & Geriatrics > Alzheimer's Disease	0.17321723011378293
+Health > Alternative & Natural Medicine	0.3257419132858803
+Health > Alternative & Natural Medicine > Acupuncture & Chinese Medicine	0.7478383074408188
+Health > Alternative & Natural Medicine > Cleansing & Detoxification	0.2369821373036028
+Health > Health Conditions	0.18400646925352196
+Health > Health Conditions > AIDS & HIV	0.18985679376941952
+Health > Health Conditions > Allergies	0.3588547740542532
+Health > Health Conditions > Arthritis	0.308738811582393
+Health > Health Conditions > Blood Sugar & Diabetes	0.22454141779980366
+Health > Health Conditions > Cancer	0.28654137118230644
+Health > Health Conditions > Cancer > Bladder Cancer	0.307125230630559
+Health > Health Conditions > Cancer > Breast Cancer	0.21687457283780212
+Health > Health Conditions > Cancer > Cervical Cancer	0.3534973682107968
+Health > Health Conditions > Cancer > Kidney Cancer	0.3797699527601026
+Health > Health Conditions > Cancer > Lung Cancer	0.30858058417031053
+Health > Health Conditions > Cancer > Ovarian Cancer	0.2861329258544879
+Health > Health Conditions > Cancer > Prostate Cancer	0.23959693347676375
+Health > Health Conditions > Cancer > Skin Cancer	0.42962547561516534
+Health > Health Conditions > Cancer > Stomach Cancer	0.3892528798084367
+Health > Health Conditions > Cold & Flu	0.16054957363341965
+Health > Health Conditions > Ear Nose & Throat	0.300421563345069
+Health > Health Conditions > Ear Nose & Throat > Deafness	0.3548913632148544
+Health > Health Conditions > Eating Disorders	0.35370705400268215
+Health > Health Conditions > Endocrine Conditions	0.34733059495881136
+Health > Health Conditions > Endocrine Conditions > Thyroid Conditions	0.3913922515360931
+Health > Health Conditions > GERD & Digestive Disorders	0.19224970826095822
+Health > Health Conditions > GERD & Digestive Disorders > IBS/Crohnâ€™s Disease	0.3990428320558571
+Health > Health Conditions > Genetic Disorders	0.2570709854047887
+Health > Health Conditions > Heart & Hypertension	0.4300939372550543
+Health > Health Conditions > Heart & Hypertension > Cholesterol Issues	0.3674698899504393
+Health > Health Conditions > Infectious Diseases	0.3205267129105763
+Health > Health Conditions > Infectious Diseases > Parasites & Parasitic Diseases	0.5167293345810863
+Health > Health Conditions > Infectious Diseases > Vaccines & Immunizations	0.5427541008155514
+Health > Health Conditions > Injury	0.3664808143640727
+Health > Health Conditions > Neurological Conditions	0.3885443067957455
+Health > Health Conditions > Neurological Conditions > Brain Tumor	0.4488447936001307
+Health > Health Conditions > Neurological Conditions > Chronic Fatigue Syndrome	0.40324506854696646
+Health > Health Conditions > Neurological Conditions > Epilepsy	0.564966822430262
+Health > Health Conditions > Neurological Conditions > Learning & Developmental Disabilities	0.5765070714489469
+Health > Health Conditions > Neurological Conditions > Learning & Developmental Disabilities > Add & Adhd	0.42094066815847075
+Health > Health Conditions > Orthopedic Conditions	0.41838661660227333
+Health > Health Conditions > Pain Management	0.4342195340042175
+Health > Health Conditions > Pain Management > Headaches & Migraines	0.2752204864603284
+Health > Health Conditions > Respiratory Conditions	0.14127436826509887
+Health > Health Conditions > Respiratory Conditions > Asthma	0.2699670985794263
+Health > Health Conditions > Skin Conditions	0.30282200403778853
+Health > Health Conditions > Sleep Disorders	0.33073161202707035
+Health > Health Conditions > Urological Conditions	0.30520548284835425
+Health > Health Conditions > Urological Conditions > Incontinence	0.021379498095960438
+Health > Health Education & Medical Training	0.5159752467748016
+Health > Health Foundations & Medical Research	0.6213818786579778
+Health > Medical Devices & Equipment	0.3267776611286026
+Health > Medical Devices & Equipment > Assistive Technology > Mobility Equipment & Accessories	0.0
+Health > Medical Facilities & Services	0.22539691067182047
+Health > Medical Facilities & Services > Doctors' Offices	0.12633587296329568
+Health > Medical Facilities & Services > Hospitals & Treatment Centers	0.45527508904245556
+Health > Medical Facilities & Services > Medical Procedures	0.377187368661238
+Health > Medical Facilities & Services > Medical Procedures > Medical Tests & Exams	0.2914570461381029
+Health > Medical Facilities & Services > Medical Procedures > Surgery	0.48511066044082474
+Health > Medical Facilities & Services > Medical Procedures > Surgery > Cosmetic Surgery	0.19794491870482567
+Health > Medical Facilities & Services > Physical Therapy	0.45270188187852706
+Health > Medical Literature & Resources	0.2376867461474411
+Health > Medical Literature & Resources > Medical Photos & Illustration	0.3595618262798769
+Health > Men's Health	0.3794269479440313
+Health > Mental Health	0.43230525624505023
+Health > Mental Health > Anxiety & Stress	0.2071482067561486
+Health > Mental Health > Bipolar Disorder	0.529555142721734
+Health > Mental Health > Depression	0.17358584792629783
+Health > Nursing > Assisted Living & Long Term Care	0.5254277461027659
+Health > Nutrition	0.16235819822006287
+Health > Nutrition > Special & Restricted Diets	0.3470613558229745
+Health > Nutrition > Special & Restricted Diets > Low Carbohydrate Diets	0.2623764394335341
+Health > Nutrition > Special & Restricted Diets > Low Fat & Low Cholesterol Diets	0.3512364720217035
+Health > Nutrition > Vitamins & Supplements	0.13601068275482064
+Health > Oral & Dental Care	0.1964669790434597
+Health > Pediatrics	0.428894131085939
+Health > Pharmacy	0.4716102991729464
+Health > Pharmacy > Drugs & Medications	0.17075994408525796
+Health > Public Health > Toxic Substances & Poisoning	0.29338575383892207
+Health > Reproductive Health	0.13221813233124183
+Health > Reproductive Health > Birth Control	0.006993006993006993
+Health > Reproductive Health > Male Impotence	0.24852709715951354
+Health > Reproductive Health > Sex Education & Counseling	0.0
+Health > Reproductive Health > Sexual Enhancement	0.08855596675783987
+Health > Reproductive Health > Sexually Transmitted Diseases	0.15094606584183926
+Health > Substance Abuse	0.2537313432835821
+Health > Substance Abuse > Drug & Alcohol Testing	0.4560950869877934
+Health > Substance Abuse > Drug & Alcohol Treatment	0.33639883983393826
+Health > Substance Abuse > Smoking & Smoking Cessation	0.06134969325153374
+Health > Vision Care	0.48626164687955975
+Health > Vision Care > Eye Exams & Optometry	0.41681302275957527
+Health > Vision Care > Eyeglasses & Contacts	0.00390625
+Health > Women's Health	0.20072975058820422
+Hobbies & Leisure > Crafts	0.005110732538330494
+Hobbies & Leisure > Crafts > Art & Craft Supplies	0.016129032258064516
+Hobbies & Leisure > Crafts > Ceramics & Pottery	0.021739130434782608
+Hobbies & Leisure > Crafts > Fiber & Textile Arts	0.06529098712233847
+Hobbies & Leisure > Outdoors > Hiking & Camping	0.0
+Hobbies & Leisure > Outdoors > Hunting & Shooting	0.05263157894736842
+Hobbies & Leisure > Special Occasions > Holidays & Seasonal Events > Birthdays & Name Days	0.0
+Hobbies & Leisure > Special Occasions > Holidays & Seasonal Events > Halloween & October 31st	0.0
+Hobbies & Leisure > Special Occasions > Weddings	0.03831351835100802
+Home & Garden	0.01804342950032966
+Home & Garden > Bed & Bath	0.2358002213079453
+Home & Garden > Bed & Bath > Bathroom	0.11742901440441572
+Home & Garden > Bed & Bath > Bedroom	0.22336108696401266
+Home & Garden > Bed & Bath > Bedroom > Bedding & Bed Linens	0.012431145639820255
+Home & Garden > Bed & Bath > Bedroom > Beds & Headboards	0.03125
+Home & Garden > Bed & Bath > Bedroom > Mattresses	0.009740850592068629
+Home & Garden > Domestic Services	0.1496864902731356
+Home & Garden > Domestic Services > Cleaning Services	0.3891439038535264
+Home & Garden > Gardening & Landscaping	0.11129463814727997
+Home & Garden > HVAC & Climate Control	0.07438149383629791
+Home & Garden > HVAC & Climate Control > Air Filters & Purifiers	0.36086565033578516
+Home & Garden > HVAC & Climate Control > Fireplaces & Stoves	0.0
+Home & Garden > Home & Interior Decor	0.022855991363230473
+Home & Garden > Home Appliances	0.011111111111111112
+Home & Garden > Home Appliances > Vacuums & Floor Care	0.026437607635403888
+Home & Garden > Home Appliances > Water Filters & Purifiers	0.0
+Home & Garden > Home Furnishings	0.004329004329004329
+Home & Garden > Home Furnishings > Curtains & Window Treatments	0.005649717514124294
+Home & Garden > Home Furnishings > Kitchen & Dining Furniture	0.02666011165344215
+Home & Garden > Home Furnishings > Lamps & Lighting	0.0048543689320388345
+Home & Garden > Home Furnishings > Living Room Furniture	0.014038766554823922
+Home & Garden > Home Furnishings > Living Room Furniture > Sofas & Armchairs	0.05468643864563932
+Home & Garden > Home Furnishings > Outdoor Furniture	0.05966564925467465
+Home & Garden > Home Furnishings > Rugs & Carpets	0.010841008080926445
+Home & Garden > Home Improvement	0.01098901098901099
+Home & Garden > Home Improvement > Doors & Windows	0.006666666666666667
+Home & Garden > Home Improvement > House Painting & Finishing	0.051638006422467374
+Home & Garden > Home Storage & Shelving	0.041475417627668376
+Home & Garden > Home Swimming Pools, Saunas & Spas	0.04851873878899361
+Home & Garden > Kitchen & Dining	0.006688963210702341
+Home & Garden > Kitchen & Dining > Cookware & Diningware	0.01814070254876585
+Home & Garden > Kitchen & Dining > Cookware & Diningware > Cookware > Cutlery & Cutting Accessories	0.06602040039264716
+Home & Garden > Kitchen & Dining > Major Kitchen Appliances	0.0375777768878396
+Home & Garden > Kitchen & Dining > Major Kitchen Appliances > Microwaves	0.0
+Home & Garden > Kitchen & Dining > Small Kitchen Appliances	0.0
+Home & Garden > Kitchen & Dining > Small Kitchen Appliances > Coffee & Espresso Makers	0.013525378790280205
+Home & Garden > Kitchen & Dining > Small Kitchen Appliances > Toasters & Toaster Ovens	0.020249244857586023
+Home & Garden > Laundry	0.09175575848084964
+Home & Garden > Laundry > Washers & Dryers	0.0
+Home & Garden > Pest Control	0.37448785052020195
+Home & Garden > Yard & Patio	0.05952904475721934
+Home & Garden > Yard & Patio > Barbecues & Grills	0.012121212121212121
+Internet & Telecom	0.0
+Internet & Telecom > Email & Messaging > Text & Instant Messaging	0.1604699653166759
+Internet & Telecom > Mobile & Wireless	0.12453474607523041
+Internet & Telecom > Mobile & Wireless > Mobile & Wireless Accessories	0.3143724816681698
+Internet & Telecom > Mobile & Wireless > Mobile & Wireless Accessories > Bluetooth Accessories	0.030303030303030304
+Internet & Telecom > Mobile & Wireless > Mobile Apps & Add-Ons > Android Apps	0.01834862385321101
+Internet & Telecom > Search Engines > People Search	0.09789533180000945
+Internet & Telecom > Service Providers > Cable & Satellite Providers	0.18276339989155183
+Internet & Telecom > Web Apps & Online Tools	0.0
+Jobs & Education > Education	0.013605442176870748
+Jobs & Education > Education > Alumni & Reunions	0.015151515151515152
+Jobs & Education > Education > Colleges & Universities	0.0
+Jobs & Education > Education > Distance Learning	0.02
+Jobs & Education > Education > Early Childhood Education	0.44224152559986374
+Jobs & Education > Education > Primary & Secondary Schooling (K-12)	0.005050505050505051
+Jobs & Education > Education > Standardized & Admissions Tests	0.10256410256410256
+Jobs & Education > Education > Teaching & Classroom Resources > School Supplies & Classroom Equipment	0.06123058679890705
+Jobs & Education > Jobs	0.08452542600898057
+Jobs & Education > Jobs > Job Listings	0.24539223473399344
+Jobs & Education > Jobs > Job Listings > Retail Jobs	0.022222222222222223
+Law & Government	0.20753568345299697
+Law & Government > Government > Executive Branch	0.09252302773127952
+Law & Government > Government > State & Local Government	0.4246254433259095
+Law & Government > Government > Visa & Immigration	0.1904298264410754
+Law & Government > Legal > Criminal Law	0.03571428571428571
+Law & Government > Legal > Product Liability	0.0
+Law & Government > Military > Air Force	0.0
+Law & Government > Military > Veterans	0.027586206896551724
+Law & Government > Public Safety > Crime & Justice	0.15384615384615385
+Law & Government > Public Safety > Security Products & Services	0.14671705942141844
+Law & Government > Social Services > Welfare & Unemployment	0.044249570860729504
+News	0.0921624934680008
+News > Local News	0.006493506493506494
+News > Newspapers	0.1313909548264157
+News > Technology News	0.0
+News > Weather	0.06360981642870271
+News > World News	0.0
+Online Communities > Dating & Personals	0.0754169169364759
+Online Communities > Photo & Video Sharing > Video Sharing	0.37612028288396726
+Online Communities > Social Networks	0.4441010048347791
+People & Society	0.09569377990430622
+People & Society > Disabled & Special Needs	0.07441124227988918
+People & Society > Ethnic & Identity Groups > Lesbian, Gay, Bisexual & Transgender	0.03917604651892382
+People & Society > Family & Relationships > Family	0.0
+People & Society > Family & Relationships > Family > Ancestry & Genealogy	0.1521845030487891
+People & Society > Family & Relationships > Family > Baby & Pet Names	0.5639159712177829
+People & Society > Family & Relationships > Family > Parenting	0.1269140459078981
+People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers	0.033853900403938375
+People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby & Toddler Toys	0.3560970493439446
+People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby Care & Hygiene	0.11243946758390817
+People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Baby Strollers & Transport	0.02945678948231253
+People & Society > Family & Relationships > Family > Parenting > Babies & Toddlers > Diapering & Potty Training	0.08333333333333333
+People & Society > Family & Relationships > Family > Parenting > Child Care	0.25976333233603155
+People & Society > Family & Relationships > Family > Parenting > Pregnancy & Maternity	0.08784282452267429
+People & Society > Family & Relationships > Family > Parenting > Youth Camps	0.0
+People & Society > Family & Relationships > Troubled Relationships	0.4190087898966539
+People & Society > Men's Interests	0.005306603773584905
+People & Society > Religion & Belief > Astrology & Divination	0.030985915492957747
+People & Society > Religion & Belief > Christianity	0.14340958023865435
+People & Society > Self-Help & Motivational	0.0
+People & Society > Seniors & Retirement	0.13065791534962087
+People & Society > Social Issues & Advocacy > Charity & Philanthropy	0.0
+People & Society > Social Issues & Advocacy > Housing & Development	0.02730597609326066
+People & Society > Social Issues & Advocacy > Reproductive Rights	0.1711421073608288
+People & Society > Social Sciences	0.12499094868166184
+People & Society > Social Sciences > Communications & Media Studies > Public Speaking	0.0
+People & Society > Social Sciences > Psychology	0.22779889678422896
+People & Society > Subcultures & Niche Interests > Science Fiction & Fantasy	0.2065981866357914
+People & Society > Women's Interests	0.02218360154788806
+Pets & Animals > Animal Products & Services	0.1437812972643428
+Pets & Animals > Animal Products & Services > Animal Welfare	0.3351622769525426
+Pets & Animals > Animal Products & Services > Pet Food & Pet Care Supplies	0.13693458256028496
+Pets & Animals > Animal Products & Services > Veterinarians	0.4960745050144427
+Pets & Animals > Pets	0.0
+Pets & Animals > Pets > Cats	0.3333333333333333
+Pets & Animals > Pets > Dogs	0.210321435277361
+Real Estate	0.024399825361049156
+Real Estate > Real Estate Listings	0.09956019609335921
+Real Estate > Real Estate Listings > Bank-Owned & Foreclosed Properties	0.051115001014544116
+Real Estate > Real Estate Listings > Residential Rentals	0.03263965318380319
+Real Estate > Real Estate Listings > Residential Sales	0.025252561048267452
+Real Estate > Real Estate Listings > Residential Sales > New Homes & Custom Homes	0.16666666666666666
+Real Estate > Real Estate Services > Property Management	0.0
+Reference	0.10996604607917419
+Reference > Directories & Listings	0.17325582980084592
+Reference > Directories & Listings > Business & Personal Listings	0.1384413876413719
+Reference > General Reference > Biographies & Quotations	0.07695717887313906
+Reference > General Reference > Calculators & Reference Tools	0.08351185963212791
+Reference > General Reference > Dictionaries & Encyclopedias	0.0
+Reference > General Reference > Forms Guides & Templates	0.11528939048003717
+Reference > General Reference > How-To, DIY & Expert Content	0.061678307739246555
+Reference > General Reference > Public Records	0.19722011061055644
+Reference > General Reference > Time & Calendars	0.0
+Reference > Geographic Reference	0.3336034069536216
+Reference > Geographic Reference > City & Local Guides	0.12862078407522104
+Reference > Geographic Reference > Maps	0.2593801314633496
+Reference > Geographic Reference > Maps > Traffic & Public Transit	0.09246931648503733
+Reference > Humanities > History	0.0859036896727468
+Science > Astronomy	0.15384615384615385
+Science > Biological Sciences > Anatomy	0.24509954350718327
+Science > Biological Sciences > Flora & Fauna	0.0
+Science > Biological Sciences > Flora & Fauna > Insects & Entomology	0.26188346418442543
+Science > Biological Sciences > Genetics	0.6209246985117952
+Science > Biological Sciences > Neuroscience	0.0625
+Science > Computer Science > Machine Learning & Artificial Intelligence	0.1111111111111111
+Science > Earth Sciences > Water & Marine Sciences	0.5675460924238517
+Science > Ecology & Environment > Climate Change & Global Warming	0.24923372056480936
+Science > Scientific Equipment	0.04
+Shopping	0.022311870765981335
+Shopping > Antiques & Collectibles	0.3088557126444932
+Shopping > Apparel	0.020212103623028898
+Shopping > Apparel > Athletic Apparel	0.03019353624076217
+Shopping > Apparel > Casual Apparel	0.006712208956937812
+Shopping > Apparel > Casual Apparel > T-Shirts	0.0023148148148148147
+Shopping > Apparel > Children's Clothing	0.005656935757415922
+Shopping > Apparel > Clothing Accessories	0.0024752475247524753
+Shopping > Apparel > Clothing Accessories > Gems & Jewelry	0.016083599632384798
+Shopping > Apparel > Clothing Accessories > Gems & Jewelry > Rings	0.039344567849231
+Shopping > Apparel > Clothing Accessories > Handbags & Purses	0.0133139001313618
+Shopping > Apparel > Clothing Accessories > Watches	0.011534583669078047
+Shopping > Apparel > Eyewear > Sunglasses	0.01581603854566002
+Shopping > Apparel > Footwear	0.010112685864931066
+Shopping > Apparel > Footwear > Athletic Shoes	0.010425398113039552
+Shopping > Apparel > Footwear > Boots	0.005847953216374269
+Shopping > Apparel > Footwear > Casual Shoes	0.02236554549771287
+Shopping > Apparel > Formal Wear	0.06036802679881892
+Shopping > Apparel > Formal Wear > Bridal Wear	0.12709993813641018
+Shopping > Apparel > Headwear	0.08507964048078849
+Shopping > Apparel > Men's Clothing	0.01825898519186769
+Shopping > Apparel > Outerwear	0.016379161240690148
+Shopping > Apparel > Sleepwear	0.01922559431711864
+Shopping > Apparel > Suits & Business Attire	0.009554140127388535
+Shopping > Apparel > Swimwear	0.014239724830696205
+Shopping > Apparel > Undergarments	0.03211019766192933
+Shopping > Apparel > Uniforms & Workwear	0.0
+Shopping > Apparel > Women's Clothing	0.03134483149335823
+Shopping > Apparel > Women's Clothing > Dresses	0.022118322147605077
+Shopping > Auctions	0.019943019943019943
+Shopping > Classifieds	0.022988505747126436
+Shopping > Consumer Resources > Coupons & Discount Offers	0.034823939368572865
+Shopping > Consumer Resources > Customer Services	0.16970404749498888
+Shopping > Consumer Resources > Customer Services > Loyalty Cards & Programs	0.3584255379828022
+Shopping > Consumer Resources > Customer Services > Technical Support & Repair	0.02867349236320882
+Shopping > Consumer Resources > Product Reviews & Price Comparisons > Price Comparisons	0.0497587324693358
+Shopping > Discount & Outlet Stores	0.018699650903911656
+Shopping > Gifts & Special Event Items	0.01773327789537479
+Shopping > Gifts & Special Event Items > Cards & Greetings	0.017094017094017096
+Shopping > Gifts & Special Event Items > Custom & Personalized Items	0.025
+Shopping > Gifts & Special Event Items > Flowers	0.27314120162091327
+Shopping > Gifts & Special Event Items > Gifts	0.019623612188203587
+Shopping > Gifts & Special Event Items > Party & Holiday Supplies	0.10536166091258387
+Shopping > Green & Eco-Friendly Shopping	0.1
+Shopping > Mass Merchants & Department Stores	0.14842959326326566
+Shopping > Photo & Video Services > Stock Photography	0.22576643713605826
+Shopping > Swap Meets & Outdoor Markets	0.0
+Shopping > Toys	0.0
+Shopping > Toys > Action Figures	0.0
+Shopping > Toys > Dolls & Accessories	0.0
+Shopping > Toys > Outdoor Toys & Play Equipment	0.03160160761393868
+Shopping > Toys > Ride-On Toys & Wagons	0.004830917874396135
+Shopping > Toys > Stuffed Toys	0.0
+Sports > Animal Sports > Equestrian	0.0
+Sports > Individual Sports > Golf	0.13651877133105803
+Sports > Individual Sports > Racquet Sports	0.0
+Sports > Individual Sports > Racquet Sports > Tennis	0.001610305958132045
+Sports > Individual Sports > Running & Walking	0.008463096521801116
+Sports > Sport Scores & Statistics	0.0
+Sports > Sporting Goods > American Football Equipment	0.030822360971841805
+Sports > Sporting Goods > Golf Equipment	0.014262728936821994
+Sports > Sporting Goods > Hockey Equipment	0.07264826576886488
+Sports > Sporting Goods > Roller Skating & Rollerblading Equipment	0.0
+Sports > Sports Fan Gear & Apparel	0.0022675736961451248
+Sports > Team Sports > Cricket	0.19230769230769232
+Sports > Team Sports > Hockey	0.0
+Sports > Water Sports > Swimming	0.055900621118012424
+Travel	0.4296006471721254
+Travel > Air Travel > Airport Parking & Transportation	0.0
+Travel > Cruises & Charters	0.048232805872888036
+Travel > Hotels & Accommodations	0.012448132780082987
+Travel > Hotels & Accommodations > Vacation Rentals & Short-Term Stays	0.06159261730012198
+Travel > Luggage & Travel Accessories	0.011041635338002986
+Travel > Specialty Travel > Adventure Travel	0.005215123859191656
+Travel > Specialty Travel > Vineyards & Wine Tourism	0.0
+Travel > Tourist Destinations	0.345878217845361
+Travel > Tourist Destinations > Beaches & Islands	0.020621268274985706
+Travel > Tourist Destinations > Regional Parks & Gardens	0.03508771929824561
+Travel > Tourist Destinations > Theme Parks	0.0
+Travel > Travel Agencies & Services > Vacation Offers	0.07271109960351102
+Travel > Travel Guides & Travelogues	0.0035087719298245615
+missing	0.20566283104427857
+unknown	0.5961222233046536
