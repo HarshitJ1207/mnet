@@ -5,8 +5,8 @@
         "tensorShape": [
             3961, 30
         ],
-        "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Sentence_Transformer_embeddings/transformer_embeddings-10.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Sentence_Transformer_embeddings/sentences_ctr_labeled-7.tsv"
+        "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/url_hash_embeddings/embeddings_url_category.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/url_hash_embeddings/url_category_vs_ctr.tsv"
       }
     ]
   }
