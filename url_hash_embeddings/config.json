@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "My tensor",
+        "tensorShape": [
+            3961, 30
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Sentence_Transformer_embeddings/transformer_embeddings-10.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/Sentence_Transformer_embeddings/sentences_ctr_labeled-7.tsv"
+      }
+    ]
+  }
+  
