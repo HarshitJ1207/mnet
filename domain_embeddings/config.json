@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+          254 , 15
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/domain_embeddings/doamin_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/HarshitJ1207/mnet/master/domain_embeddings/domain_vs_ctr.tsv"
+    }
+  ]
+}
